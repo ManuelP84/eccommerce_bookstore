@@ -1,2 +1,2 @@
-# eccommerce_bookstore
-eccommerce_bookstore
+# ecommerce_bookstore
+ecommerce_bookstore
